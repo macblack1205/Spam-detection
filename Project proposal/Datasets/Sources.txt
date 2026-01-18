@@ -1,0 +1,11 @@
+Dataset 1: 
+name: Spam Email Classification
+Link: https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset?resource=download
+
+Dataset 2: 
+name: Ling-Spam Corpus
+Link: http://www.aueb.gr/users/ion/data/lingspam_public.tar.gz
+
+Dataset 3: 
+name: 190K+ Spam | Ham Email Dataset for Classification
+Link:https://www.kaggle.com/datasets/meruvulikith/190k-spam-ham-email-dataset-for-classification
